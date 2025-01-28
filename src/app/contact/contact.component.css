@@ -1,0 +1,6 @@
+.line-star{background-color:black ;width: 80px;height: 4px;display: inline-block;}
+.btn-color{background-color: #1abd9c;color: white;}
+.__top {top: 30px !important;left: 7px;  }
+input::placeholder{color: black;}
+label{transition: 0.5s; }
+.__top:focus{color: yellowgreen;}

@@ -1,0 +1,5 @@
+.active-link{background-color:#1abd9c;border-radius:5;padding: 8px;}
+
+.nav-link{transition: unset !important;}
+
+.navbar{transition: 0.5s;}
